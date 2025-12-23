@@ -2,10 +2,13 @@
 
 A premium luxury fashion e-commerce platform built with React, TypeScript, and modern web technologies. Features a sophisticated UI with smooth animations, complete shopping cart functionality, and a seamless checkout experience.
 
+**[Live Demo](https://luxe-wearing.vercel.app)**
+
 ![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=flat&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=flat&logo=tailwindcss)
 ![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=flat&logo=vite)
+![Vercel](https://img.shields.io/badge/Deployed-Vercel-000000?style=flat&logo=vercel)
 
 ## Features
 
@@ -42,8 +45,8 @@ A premium luxury fashion e-commerce platform built with React, TypeScript, and m
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/luxe-wear.git
-cd luxe-wear
+git clone https://github.com/YarikMaydebura/LuxeWear.git
+cd LuxeWear
 ```
 
 2. Install dependencies:
